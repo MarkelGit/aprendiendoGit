@@ -1,6 +1,4 @@
 primera linea
 segunda linea
-<<<<<<< HEAD
-=======
 tercera linea
->>>>>>> rama1.txt creado y texto1.txt cambiado
+cuarta linea rama2
